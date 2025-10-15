@@ -1,0 +1,5 @@
+{
+  "name": "Privacy in AI Showcase",
+  "description": "An interactive webpage that highlights privacy-preserving ML methods, typical use cases, architectural diagrams, and code samples for Gen AI.",
+  "requestFramePermissions": []
+}
